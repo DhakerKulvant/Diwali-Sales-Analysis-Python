@@ -48,7 +48,7 @@ The analysis helps businesses understand their customer base, improve marketing 
 - Most buyers are from the **26–35 years** age group.  
 - Female customers in this age group dominate sales.  
 
-![Age Group](images/most_of_the_buyers_are_of_age_group_between_26_35_yrs_female.png)
+![Age Group](images/age_group_between_26_35_yrs_female.png)
 
 ---
 
